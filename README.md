@@ -1,9 +1,6 @@
-# Future4 | Full-Stack Web Development Bootcamp
-Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
+## ![alt text](https://miro.medium.com/fit/c/128/128/2*pq7dg0Y11VmKBSy6qiJdtQ.png "Logo Title Text 1")Labenu Web Full-Stack Bootcamp
+> Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com node.js.
 
-<p align="center">
-  <img  width='500' src='https://user-images.githubusercontent.com/45580434/74607837-f69f5e00-50ba-11ea-97e0-62fab855bcb6.png'>
-</p>
 
 ## Projeto: futureECommerce2
 
