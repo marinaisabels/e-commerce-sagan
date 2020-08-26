@@ -1,68 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Future4 | Full-Stack Web Development Bootcamp
+Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
-## Available Scripts
+<p align="center">
+  <img  width='500' src='https://user-images.githubusercontent.com/45580434/74607837-f69f5e00-50ba-11ea-97e0-62fab855bcb6.png'>
+</p>
 
-In the project directory, you can run:
+## Projeto: futureECommerce2
 
-### `npm start`
+[Site do projeto](http://futureecommerce.surge.sh/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![ecommerce](https://user-images.githubusercontent.com/45580434/75068382-d6faa200-54cd-11ea-99de-26f5c8dc7c61.gif)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/future4code/sagan-futureECommerce2">
 
-### `npm test`
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/future4code/sagan-futureECommerce2">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/future4code/sagan-futureECommerce2">
 
-### `npm run build`
+  <a href="https://github.com/future4code/sagan-futureECommerce2/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/future4code/sagan-futureECommerce2">
+  </a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <a href="https://github.com/future4code/sagan-futureECommerce2/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/future4code/sagan-futureECommerce2">
+  </a>
+</p>
+<br>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Desenvolvido por:** 
+* [Marina Isabel dos Santos](https://github.com/marinaisabels)
+* [Rosana Rezende](https://github.com/rosanarezende)
+* [Vitor Lopes](https://github.com/vitor-slopes)
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Escopo do projeto
+Criar um E-Commerce com os requisitos abaixo.
+<br><br>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Requisitos obrigatórios
+- Filtro
+    - [x] Por valor mínimo e máximo
+    - [x] Por nome do produto
+- Home
+    - [x] Mostrando todos os produtos
+    - [x] Ordenação (Mais barato pra mais caro e vice versa)
+    - Produtos:
+        - [x] Devem ter um botão que permita adicioná-los ao carrinho
+        - [x] Devem exibir o nome, preço e imagem em um card
+- Carrinho
+    - [x] Mostrar todos os produtos e quantidades adicionadas
+    - [x] Capacidade de remover itens do carrinho
+    - [x] Mostrar o valor total do carrinho
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br><br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#### Desafios
+- [x] Salvar e Recuperar conteúdo do carrinho usando o `LocalStorage`
+- [x] Qual funcionalidade está faltando? Decida em grupo o que vocês concordam que poderia ser uma boa adição à loja virtual, pode ser qualquer funcionalidade, desde que vocês consigam implementá-la. Ao decidir uma funcionalidade, vocês devem confirmar com os instrutores antes de prosseguir através de um atendimento.
+<br>_Nós implementamos um **botão de desconto**_
